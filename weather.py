@@ -3,7 +3,7 @@
 """
 Created on Sun Dec  5 00:17:59 2021
 
-@author: newowner
+@author: Evan Yan
 """
 
 import tkinter as tk
